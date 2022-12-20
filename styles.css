@@ -1,0 +1,23 @@
+* {
+	background-color: cadetblue;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Brush Script MT', cursive;
+	text-align: center;
+}
+
+h1 {
+	background-color: darkseagreen;
+	color: floralwhite;
+	font-size: 38px;
+}
+
+p, a {
+	font-family: 'Helvetica', sans-serif;
+	font-size: 20px;
+}
+
+a {
+	color: darkgreen;
+}
