@@ -3,14 +3,14 @@
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Brush Script MT', cursive;
+	font-family: 'Dancing Script', 'Brush Script MT', cursive;
 	text-align: center;
 }
 
 h1 {
 	background-color: darkseagreen;
 	color: floralwhite;
-	font-size: 38px;
+	font-size: 40px;
 }
 
 p, a {
