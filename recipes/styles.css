@@ -1,5 +1,5 @@
 * {
-	background-color: cadetblue;
+	background-color: teal;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -8,23 +8,35 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	background-color: darkseagreen;
+	background-color: darkorange;
 	color: floralwhite;
 	font-size: 38px;
 }
 
 h2 {
-	background-color: darkseagreen;
+	background-color: coral;
 	color: floralwhite;
 	font-size: 32px;
 }
 
+h2.description {
+	background-color: orange;
+}
 
 p, a, ul, ol {
 	font-family: 'Helvetica', sans-serif;
 	font-size: 20px;
+	color: beige;
+}
+
+.description-body {
+	text-align: center;
+}
+
+.steps {
+	font-size: 22px;
 }
 
 a {
-	color: darkgreen;
+	color: aquamarine;
 }
