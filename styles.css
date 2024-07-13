@@ -1,0 +1,20 @@
+*{
+	color: lightgray;
+	background-color: teal;
+	font-size: 24px;
+}
+
+h1,
+h2 {
+	font-family: Georgia, 'Times New Roman', serif;
+}
+
+h1{
+	text-align: center;
+	font-size: 40px;
+}
+
+h2{
+	font-size: 34px;
+}
+
