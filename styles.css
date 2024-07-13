@@ -2,11 +2,13 @@
 	color: lightgray;
 	background-color: teal;
 	font-size: 24px;
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 h1,
 h2 {
 	font-family: Georgia, 'Times New Roman', serif;
+	color: white;
 }
 
 h1{
@@ -15,6 +17,40 @@ h1{
 }
 
 h2{
-	font-size: 34px;
+	font-size: 30px;
 }
 
+li {
+	font-size: 26px;
+}
+
+.img-recipe {
+	width: 500px;
+	height: auto;
+}
+
+.description-box p,
+.description-box a {
+	background-color: darkslateblue;
+}
+
+.description-box p {
+	color: lightblue;
+}
+
+.ingredients-box ul,
+.ingredients-box li {
+	background-color: darkgreen;
+	color: lightcyan;
+}
+
+.steps-box ol,
+.steps-box li {
+	background-color: darkolivegreen;
+	color: lightgoldenrodyellow;
+}
+
+a{
+	font-family: Monaco, 'Lucida Console', monospace;
+	color: pink;
+}
